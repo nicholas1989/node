@@ -1,0 +1,19 @@
+{
+  "name": "node-tutorials",
+  "version": "1.0.0",
+  "description": "This is a tutorial on nodejs. This is a complete nodejs guide.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Nkemakolam Nwokoro",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
